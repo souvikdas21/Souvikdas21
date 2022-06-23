@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikdas21" alt="souvikdas21" /></a> </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1355613/screenshots/17574953/media/2e3c17623e81c4bda44369eef1604342.jpg?compress=1&resize=1200x900&vertical=top"></p>
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available [https://github.com/souvikdas21](https://github.com/souvikdas21)
 
